@@ -1,2 +1,2 @@
 # 一个模仿微博的小项目
-新手随便写的
+仿微博的练手小网站，ASP.NET WebForms + SQL Server
